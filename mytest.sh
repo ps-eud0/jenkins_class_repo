@@ -1,4 +1,2 @@
-echo "first build********"
-date
+echo "first build"
 cal
-echo "bye"
